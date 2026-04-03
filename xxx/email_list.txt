@@ -1,0 +1,6 @@
+# Add your email addresses here, one per line
+# Lines starting with # are ignored
+
+creator1@youtube.com
+creator2@gmail.com
+business@channel.com
