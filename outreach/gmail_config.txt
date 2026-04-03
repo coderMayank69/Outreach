@@ -1,0 +1,8 @@
+EMAIL=creativemayank96325@gmail.com
+PASSWORD=lelp kuqc phvu xbgr
+NAME=Mayank Singh
+PORTFOLIO=https://www.behance.net/gallery/215773425/Portfolio
+VIDEO=https://photos.app.goo.gl/uyKK5um64Tn9NVJ37
+
+
+
